@@ -1,7 +1,7 @@
 # Maia Cursor Theme for Manjaro Linux KDE Plasma Desktop
 
 <p align="center">
-  <img src="https://i.imgur.com/MWOiow7.png" alt="maia-cursor-theme"/>
+  <img src="https://i.imgur.com/rvxrqXT.png" alt="maia-cursor-theme"/>
 </p>
 
 # DEPENDENCIES
@@ -20,7 +20,7 @@
 
 **Download PKGBUILD**<br/>
 
-> `mkdir -p maia-cursor-theme;cd maia-cursor-theme;wget "https://pastebin.com/raw/k63EcvJh" -O PKGBUILD`<br/>
+> `mkdir -p maia-cursor-theme;cd maia-cursor-theme;wget "https://pastebin.com/raw/9p5JwGsS" -O PKGBUILD`<br/>
 
 **Build and install package**<br/>
 
