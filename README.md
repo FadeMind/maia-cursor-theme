@@ -12,16 +12,6 @@
 - `libcanberra` <br/>
 - `xorg-xcursorgen` <br/>
 
-# BUILD AND INSTALL PACKAGE
+# BUILD AND INSTALL PACKAGE FROM AUR
 
-**Install dependencies**<br/>
-
-> `sudo pacman -S --needed --noconfirm cmake inkscape libcanberra xorg-xcursorgen gtk-engine-murrine`<br/>
-
-**Download PKGBUILD**<br/>
-
-> `mkdir -p maia-cursor-theme;cd maia-cursor-theme;wget "https://pastebin.com/raw/9p5JwGsS" -O PKGBUILD`<br/>
-
-**Build and install package**<br/>
-
-> `mkdir -p /tmp/makepkg; BUILDDIR=/tmp/makepkg makepkg -srci`<br/>
+> `yaourt -S --noconfirm maia-cursor-theme-git `</br>
